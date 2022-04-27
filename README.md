@@ -62,6 +62,13 @@ yarn
 $ node .
 ```
 
+##Run On Heroku
+
+Simple WhatsApp Bot
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nanzz681/Md)
+
+
 ## ❗ Warning
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
