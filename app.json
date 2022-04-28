@@ -1,7 +1,14 @@
 {
-	"name": "Hisoka-Morou",
-	"description": "WhatsApp Bot Using Lib Baileys",
-	"repository": "https://github.com/DikaArdnt/Hisoka-Morou",
-	"logo": "https://node-js-sample.herokuapp.com/node.png",
-	"keywords": ["multi-device"]
+
+  "buildpacks": [   
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
+    }
+  ]
 }
