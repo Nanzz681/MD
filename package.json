@@ -1,5 +1,5 @@
 {
-  "name": "ZETS-MD",
+  "name": "NZZ-MD",
   "version": "1.2.4",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Nando35.",
+  "author": "nzz.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
@@ -66,10 +66,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nando35/ZetsM.git"
+    "url": "git+https://github.com/Nanzz681/Md.git"
   },
   "bugs": {
-    "url": "https://github.com/Nando35/ZetsM/issues"
+    "url": "https://github.com/Nanzz681/Md/issues"
   },
-  "homepage": "https://github.com/Nando35/ZetsM#readme"
+  "homepage": "https://github.com/Nanzz681/Md#readme"
 }
